@@ -1,4 +1,5 @@
 # WinOpenGL - OpenGL Program using the Win32 API
+![TriangleGL](RepoIcon.png)
 This is a pretty simple OpenGL 3.3 core program that draws a triangle to the screen
 without using any external libraries. This program is only native to Windows,
 so anyone using Linux/Mac will not be able to build.
