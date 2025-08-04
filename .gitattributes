@@ -1,0 +1,6 @@
+#
+# File Associations
+#
+
+*.cpp text
+*.cpp linguist-language=C++

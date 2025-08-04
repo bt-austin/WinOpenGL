@@ -1,0 +1,13 @@
+#
+# Visual Studio Excludes
+#
+/.vs
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+#
+# Project Excludes
+#
+/Binaries
+/Intermediate
