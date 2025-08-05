@@ -2,7 +2,6 @@
 # Visual Studio Excludes
 #
 /.vs
-*.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
 
